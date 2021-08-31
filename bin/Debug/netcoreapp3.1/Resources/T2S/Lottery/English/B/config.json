@@ -1,0 +1,14 @@
+﻿{
+  "credential_key_file": "..\\..\\resources\\credential_key.json",
+  "speech_dictionary": "..\\..\\resources\\Lottery\\English\\B\\dictionary.json",
+  "audio_directory": "..\\..\\audio\\Lottery\\English\\B\\",
+
+  "language_code": "en-US",
+  "gender": "female",
+  "speaker": "en-US-Wavenet-H",
+  "pitch": 0.8,
+  "speaking_rate": 1.00,
+
+  "generate": true,
+  "play": true
+}

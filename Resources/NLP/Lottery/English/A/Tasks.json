@@ -1,0 +1,83 @@
+﻿[
+  {
+    "name": "SS-GREETING",
+    "header": "Greeting",
+    "positive_description": "This was easy! You've welcomed the client!",
+    "negative_description": "You should always begin a conversation with a greeting.",
+    "image": "shakehands",
+    "phrases_names": [ "SS-GREETING" ]
+  },
+  {
+    "name": "GA-GAME_TYPES",
+    "header": "Game types",
+    "positive_description": "You've explained correctly the different game types!",
+    "negative_description": "Try to list out all game types and explain their differences.",
+    "image": "shakehands",
+    "phrases_names": [
+      "SS-DIFFERENT",
+      "SS-LOTTO",
+      "SS-EURO_JACKPOT",
+      "SS-ADD_ON",
+      "SS-MAIN_GAME",
+      "SS-DRAW",
+      "SS-DAYS"
+    ]
+  },
+  {
+    "name": "GA-DECISION",
+    "header": "Decision",
+    "positive_description": "Well done! You've helped the client to make his dicision.",
+    "negative_description": "Games may have high jackpot or high winning probability. Help the client with his decision.",
+    "image": "shakehands",
+    "phrases_names": [ "SS-JACKPOT", "SS-PROBABILITY" ]
+  },
+  {
+    "name": "GA-JACKPOT",
+    "header": "Jackpot",
+    "positive_description": "You've pointed out the amount of the jackpot and it's day of draw.",
+    "negative_description": "Point out the amount of the jackpot and it's day of draw",
+    "image": "shakehands",
+    "phrases_names": [ "SS-JACKPOT", "SS-LOTTO", "SS-AMOUNT", "SS-DRAW", "SS-DRAW_DAY" ]
+  },
+  {
+    "name": "GA-ALTERNATIVE_GAMES",
+    "header": "Game alternatives",
+    "positive_description": "You've mentioned enough alternative games and expained them well.",
+    "negative_description": "Give examples of alternative games.",
+    "image": "shakehands",
+    "phrases_names": [ "SS-RIGHT_NOW", "SS-SCRATCH_OFF", "SS-FROM_1_EURO" ]
+  },
+  {
+    "name": "GA-CHECKING_PROFIT",
+    "header": "Profit checking",
+    "positive_description": "Perfect! You've explained how the profit might be checked.",
+    "negative_description": "You should explain how the profit might be checked.",
+    "image": "shakehands",
+    "phrases_names": [ "SS-RETAILER", "SS-APP" ]
+  },
+  {
+    "name": "GA-CONDITIONS",
+    "header": "Game conditions",
+    "positive_description": "Awesome! You've mentioned all the game conditions.",
+    "negative_description": "You have to explain the game conditions to the customer!",
+    "image": "Sucht",
+    "phrases_names": [ "SS-PARTICIPATION", "SS-ADDICTIVE", "SS-CONSULTING", "SS-INTERNET", "SS-HOTLINE" ]
+  },
+
+  {
+    "name": "ES-FORWARD",
+    "phrases_names": [ "ES-FORWARD" ]
+  },
+  {
+    "name": "ES-RETURN",
+    "phrases_names": [ "ES-RETURN" ]
+  },
+  {
+    "name": "ES-REPEAT",
+    "phrases_names": [ "ES-REPEAT" ]
+  },
+  {
+    "name": "ES-PROCEED",
+    "phrases_names": [ "ES-PROCEED" ]
+  }
+]

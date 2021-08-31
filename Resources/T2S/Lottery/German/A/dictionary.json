@@ -1,0 +1,38 @@
+﻿[
+  {
+    "ssml": "<speak><s>Heute habe ich viel Glück.</s><s>Ich möchte nun zum ersten Mal spielen.</s><s>Wie geht das?</s></speak>",
+    "file": "spielarten.mp3"
+  },
+  {
+    "ssml": "<speak><s>Oh, das sind aber viele Möglichkeiten.</s><s>Wie soll ich mich da entscheiden?</s></speak>",
+    "file": "entscheidung.mp3"
+  },
+  {
+    "ssml": "<speak><s>Wie hoch is so ein Jackpot?</s></speak>",
+    "file": "jackpot.mp3"
+  },
+  {
+    "ssml": "<speak><s>Oh, Samstag erst?</s><s>Gibt es Alternative, wenn ich aber nicht so lange warten will?</s></speak>",
+    "file": "alternative.mp3"
+  },
+  {
+    "ssml": "<speak><s>Wie erfahre ich, dass ich gewonnen habe?</s></speak>",
+    "file": "gewinn_erfahren.mp3"
+  },
+  {
+    "ssml": "<speak><s>Das klingt sehr bequem.</s><s>Danke.</s><s>Muss ich noch etwas wissen?</s></speak>",
+    "file": "bedingungen.mp3"
+  },
+  {
+    "ssml": "<speak><s>Ok, Danke.</s><s>Auf wiedersehen.</s></speak>",
+    "file": "bye.mp3"
+  },
+  {
+    "ssml": "<speak><s>Entschuldigung.</s><s>Das habe ich leider nicht verstanden.</s></speak>",
+    "file": "repeat.mp3"
+  },
+  {
+    "ssml": "<speak><s>Vielen Dank für Ihre Hilfe.</s><s>Auf wiedersehen.</s></speak>",
+    "file": "interrupt.mp3"
+  }
+]

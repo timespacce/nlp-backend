@@ -1,0 +1,125 @@
+﻿[
+  {
+    "keywords": [ "Hallo" ],
+    "name": "ES-GREETING"
+  },
+
+  {
+    "keywords": [ "verschiedene", "unterschiedliche", "mehrere", "andere", "viele", "allerlei" ],
+    "name": "AG-VERSCHIEDENE"
+  },
+  {
+    "keywords": [ "Lotto", "6 aus 49" ],
+    "name": "AG-LOTTO"
+  },
+  {
+    "keywords": [ "Eurojackpot", "Euro Jackpot", "Euro-Jackpot" ],
+    "name": "AG-EUROJACKPOT"
+  },
+  {
+    "keywords": [ "Keno" ],
+    "name": "AG-KENO"
+  },
+  {
+    "keywords": [ "Zusatzspielarten", "zusätzliche Spielarten", "Zusatz Spielarten", "Zusatzspiel Arten", "Add-On", "Nebenspiel", "Nebenspielarten", "Zusatzspiele" ],
+    "name": "AG-ZUSATZSPIELARTEN"
+  },
+  {
+    "keywords": [ "Hauptspielart", "Haupt Spielart", "Hauptspieler" ],
+    "name": "AG-HAUPTSPIELART"
+  },
+  {
+    "keywords": [ "Spielart", "Spiel", "Gewinnspiel" ],
+    "name": "AG-SPIELART"
+  },
+  {
+    "keywords": [ "Ziehungen", "Beziehungen" ],
+    "name": "AG-ZIEHUNGEN"
+  },
+  {
+    "keywords": [ "Tagen", "Wochentagen" ],
+    "name": "AG-TAGEN"
+  },
+
+  {
+    "keywords": [ "Jackpot", "Hauptpreis", "Hauptgewinn", "Höchstgewinn", "Höchstpreis", "Haupttreffer", "Höchsttreffer" ],
+    "name": "AG-JACKPOT"
+  },
+  {
+    "keywords": [ "Gewinnwahrscheinlichkeit", "Erfolgswahrscheinlichkeit", "Statistik", "Gewinnplan", "Gewinnmatrix" ],
+    "name": "AG-WAHRSCHEINLICHKEIT"
+  },
+
+  {
+    "keywords": [ "32 Millionen", "über 30 Millionen", "32 Mio" ],
+    "name": "AG-BETRAG"
+  },
+  {
+    "keywords": [ "Ziehung" ],
+    "name": "AG-ZIEHUNG"
+  },
+  {
+    "keywords": [ "Samstag", "Samstagabend", "Sonnabend", "Wochenende" ],
+    "name": "AG-TAG_DER_ZIEHUNG"
+  },
+
+  {
+    "keywords": [ "sofort", "jetzt", "unmittelbar", "auf", "der", "Stelle", "direkt", "umgehend", "unverzüglich", "augenblicklich", "gleich" ],
+    "name": "AG-SOFORT"
+  },
+  {
+    "keywords": [ "Rubbellos", "Sofortlos", "Scratch-Ticket", "Instant-Ticket" ],
+    "name": "AG-RUBELLOS"
+  },
+  {
+    "keywords": [ "Ab 1 Euro", "Ab 1 EUR", "Ab 1 €", "wenige Euro" ],
+    "name": "AG-AB_1_EURO"
+  },
+
+  {
+    "keywords": [ "in der Annahmestelle", "Verkaufsstelle", "Laden", "Shop", "Geschäft" ],
+    "name": "AG-ANNAHMESTELLE"
+  },
+  {
+    "keywords": [ "App", "Software", "Programm" ],
+    "name": "AG-APP"
+  },
+
+  {
+    "keywords": [ "Keine Spielteilnahme unter 18 Jahren" ],
+    "name": "AG-SPIELTEILNAHME"
+  },
+  {
+    "keywords": [ "süchtig", "exzessiv", "übermäßig", "maßlos", "abhängig", "verfallen" ],
+    "name": "AG-SUECHTIG"
+  },
+  {
+    "keywords": [ "Beratung", "Information", "Auskunft", "Anlaufstelle" ],
+    "name": "AG-BERATUNG"
+  },
+  {
+    "keywords": [ "Internet", "Online", "WWW", "WorldWideWeb" ],
+    "name": "AG-INTERNET"
+  },
+  {
+    "keywords": [ "Hotline", "Beratungsstelle", "Infoline", "Anlaufstelle" ],
+    "name": "AG-HOTLINE"
+  },
+
+  {
+    "keywords": [ "Der nächste Abschnitt bitte" ],
+    "name": "ES-FORWARD"
+  },
+  {
+    "keywords": [ "Die vorletzte Frage nochmal bitte" ],
+    "name": "ES-RETURN"
+  },
+  {
+    "keywords": [ "Wiederhole die Frage bitte", "Wiederhole die Frage nochmal", "Die letzte Frage nochmal bitte" ],
+    "name": "ES-REPEAT"
+  },
+  {
+    "keywords": [ "Ich melde mich dazu", "Keine Ahnung", "Ich weiss es nicht", "Ich weiß es nicht", "Nächste Frage", "Die nächste Frage bitte" ],
+    "name": "ES-PROCEED"
+  }
+]

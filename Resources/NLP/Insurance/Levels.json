@@ -1,0 +1,46 @@
+﻿[
+  {
+    "name": "Vorstellung des Vermittlers und der Agentur",
+    "order": 1,
+    "stages_names": [
+      "ES-BEGRUESUNG",
+      "ES-NAME",
+      "ES-AUSCHLIESSLICHKEITSVERMITTLER",
+      "ES-VISITENKARTEN",
+      "ET-VISITENKARTEN",
+      "ES-VERMITTLERPROFIL",
+      "ET-VERMITTLERPROFIL",
+      "ES-OMBUDSMANN"
+    ]
+  },
+  {
+    "name": "Rechtliche Hinweise",
+    "order": 2,
+    "stages_names": [
+      "ES-DATENSCHUTZERKLAERUNG",
+      "ET-DATENSCHUTZERKLAERUNG",
+      "ES-BERATUNGSPROTOKOLL",
+      "ES-WERBEERLAUBNIS",
+      "ET-WERBEERLAUBNIS"
+    ]
+  },
+  {
+    "name": "Aufnahme und Überprüfung der Kundendaten",
+    "order": 3,
+    "stages_names": [
+      "FS-NAME",
+      "FS-WOHNORT",
+      "FS-ALTER",
+      "FS-FAMILIENSTAND",
+      "FS-HAUSTIER",
+      "FS-ERSTES_STUDIUM",
+      "FS-HOBBIES",
+      "FS-BESTEHENDE_VERTRAEGE"
+    ]
+  },
+  {
+    "name": "Produktberatung",
+    "order": 4,
+    "stages_names": [ "FS-GENERELLE_FRAGEN" ]
+  }
+]

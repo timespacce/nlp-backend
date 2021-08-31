@@ -1,0 +1,58 @@
+﻿[
+  {
+    "name": "BEGRUESSEN",
+    "header": "Begrüßung",
+    "positiveDescription": "Das war leicht! Du hast die Kundin toll begrüßt.",
+    "negativeDescription": "Eine Konversation sollte immer mit einer freundlichen Begrüßung starten.",
+    "image": "shakehands",
+    "descriptor": [ "ES-GREETING => FS-SPIELARTEN;" ]
+  },
+  {
+    "name": "SPIELE_ERKLAEREN",
+    "header": "Erklärung der Spiele",
+    "positiveDescription": "Du hast die verschiedenen Spiele und ihre Unterschiede wunderbar erläutert.",
+    "negativeDescription": "Pass auf, dass du alle Spiele (Lotto, Keno, Eurojackpot) aufzählst und die Unterschiede deutlich machst.",
+    "image": "shakehands",
+    "descriptor": [ "AG-SPIELARTEN => FS-ENTSCHEIDUNG;" ]
+  },
+  {
+    "name": "SPIELAUSWAHL_ERKLAEREN",
+    "header": "Entscheidungshilfe",
+    "positiveDescription": "Sehr gut! Du hast dem Kunden geholfen, sich für ein Spiel zu entscheiden.",
+    "negativeDescription": "Einige Spiele haben einen hohen Jackpot, andere eine hohe Gewinnwahrscheinlichkeit. Versuche, dem Kunden dies deutlich zu machen.",
+    "image": "shakehands",
+    "descriptor": [ "AG-ENTSCHEIDUNG => FS-JACKPOT;" ]
+  },
+  {
+    "name": "JACKPOT_ERKLAEREN",
+    "header": "Jackpot",
+    "positiveDescription": "Du hast sowohl die Jackpothöhe als auch den Tag der Ziehung genannt. Weiter so!",
+    "negativeDescription": "Achte darauf, sowohl die Jackpothöhe als auch den Tag der Ziehung zu nennen",
+    "image": "shakehands",
+    "descriptor": [ "AG-JACKPOT => FS-ALTERNATIVE;" ]
+  },
+  {
+    "name": "ALTERNATIVE_SPIELE_ERKLAEREN",
+    "header": "Spielalternativen",
+    "positiveDescription": "Du wusstest über alternative Spiele Bescheid und konntest diese dem Kunden anbieten.",
+    "negativeDescription": "Du wusstest leider nicht über alternative Spiele Bescheid und konntest diese dem Kunden anbieten.",
+    "image": "shakehands",
+    "descriptor": [ "AG-ALTERNATIVE => FS-GEWINN_ERFAHREN;" ]
+  },
+  {
+    "name": "GEWINN_ERFAHREN_ERKLAEREN",
+    "header": "Gewinnen",
+    "positiveDescription": "Toll! Du konntest der Kundin sagen, wann und wo Sie über einen möglichen Gewinn erfahren kann.",
+    "negativeDescription": "Du konntest der Kundin leider nicht sagen, wann und wo Sie über einen möglichen Gewinn erfahren kann.",
+    "image": "shakehands",
+    "descriptor": [ "AG-GEWINN_ERFAHREN => FS-BEDINGUNGEN;" ]
+  },
+  {
+    "name": "BEDINGUNGEN_ERKLAEREN",
+    "header": "Spielbedingungen",
+    "positiveDescription": "Du hast deinen Gegenüber über die Bedingungen und Risiken des Glücksspiels aufgeklärt. Das ist sehr wichtig!",
+    "negativeDescription": "Wichtig: Kläre deinen Gegenüber immer über die Bedingungen und Risiken des Glücksspiels auf.",
+    "image": "Sucht",
+    "descriptor": [ "AG-BEDINGUNGEN => ES-BYE;" ]
+  }
+]

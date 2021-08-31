@@ -1,0 +1,129 @@
+﻿[
+  {
+    "name": "ES-BEGRUESUNG",
+    "descriptor": [ "ES-HEY => ES-HEY;" ]
+  },
+  {
+    "name": "ES-NAME",
+    "descriptor": [ "ES-NAME => ES-FREUE_KENNENZULERNEN;" ]
+  },
+  {
+    "name": "ES-AGENTUR_VORSTELLEN",
+    "descriptor": [ "ES-AGENTUR_VORSTELLEN => ES-OK_1" ]
+  },
+  {
+    "name": "ES-AUSCHLIESSLICHKEITSVERMITTLER",
+    "descriptor": [ "ES-AUSCHLIESSLICHKEITSVERMITTLER => ES-RICHTIGE_PERSON;" ]
+  },
+  {
+    "name": "ES-VISITENKARTEN",
+    "descriptor": [ "ES-VISITENKARTEN => ES-DANKE_VISITENKARTEN;" ]
+  },
+  {
+    "name": "ET-VISITENKARTEN",
+    "descriptor": [ "ES-VISITENKARTEN => ET-LIEST_VISITENKARTE;" ]
+  },
+  {
+    "name": "ES-VERMITTLERPROFIL",
+    "descriptor": [ "ES-VERMITTLERPROFIL => ES-DANKE_INFORMATION" ]
+  },
+  {
+    "name": "ET-VERMITTLERPROFIL",
+    "descriptor": [ "ES-VERMITTLERPROFIL => ET-LIEST_VERMITTLERPROFIL" ]
+  },
+  {
+    "name": "ES-OMBUDSMANN",
+    "descriptor": [ "ES-OMBUDSMANN => ES-OK_1;" ]
+  },
+
+
+  {
+    "name": "ES-DATENSCHUTZERKLAERUNG",
+    "descriptor": [ "ES-DATENSCHUTZERKLAERUNG => ES-UNTERSCHREIBE_DATENSCHUTZERKLAERUNG;" ]
+  },
+  {
+    "name": "ET-DATENSCHUTZERKLAERUNG",
+    "descriptor": [ "ES-DATENSCHUTZERKLAERUNG => ET-LIEST_UND_UNTERSCHREIBT_DATENSCHUTZERKLAERUNG;" ]
+  },
+  {
+    "name": "ES-BERATUNGSPROTOKOLL",
+    "descriptor": [ "ES-BERATUNGSPROTOKOLL => ES-IN_ORDNUNG;" ]
+  },
+  {
+    "name": "ES-WERBEERLAUBNIS",
+    "descriptor": [ "ES-WERBEERLAUBNIS => ES-IN_ORDNUNG;" ]
+
+  },
+  {
+    "name": "ET-WERBEERLAUBNIS",
+    "descriptor": [ "ES-WERBEERLAUBNIS => ET-LIEST_WERBEERLAUBNIS;" ]
+  },
+
+
+  {
+    "name": "FS-NAME",
+    "descriptor": [ "FS-NAME => AG-NAME_1; FS-NAME => AG-NAME_2; FS-NAME => AG-NAME_3;" ]
+  },
+  {
+    "name": "FS-WOHNORT",
+    "descriptor": [
+      "FS-WOHNORT => AG-WOHNORT;",
+      "AG-JA => AG-PLZ; AG-NEIN => ET-NOD;"
+    ]
+  },
+  {
+    "name": "FS-ALTER",
+    "descriptor": [ "FS-ALTER => AG-GEBURTSTAG;" ]
+  },
+  {
+    "name": "FS-BERUF",
+    "descriptor": [ "FS-BERUF => AG-BERUF;" ]
+  },
+  {
+    "name": "FS-BESTEHENDE_VERTRAEGE",
+    "descriptor": [ "FS-BESTEHENDE_VERTRAEGE => AG-BESTEHENDE_VERTRAEGE;", "AG-HAFTPFLICHTVERSICHERUNG => ES-OK_1" ]
+  },
+  {
+    "name": "FS-ERSTES_STUDIUM",
+    "descriptor": [ "FS-ERSTES_STUDIUM => AG-ERSTES_STUDIUM;" ]
+  },
+  {
+    "name": "FS-HAUSTIER",
+    "descriptor": [ "FS-HAUSTIER => AG-HAUSTIER;" ]
+  },
+  {
+    "name": "FS-HOBBIES",
+    "descriptor": [ "FS-HOBBIES => AG-HOBBIES;" ]
+  },
+  {
+    "name": "FS-FAMILIENSTAND",
+    "descriptor": [ "FS-FAMILIENSTAND => AG-NICHT_VERHEIRATET;" ]
+  },
+
+
+  {
+    "name": "FS-GENERELLE_FRAGEN",
+    "descriptor": [
+      "FS-GENERELLE_FRAGEN => FS-HAUSRATVERSICHERUNG",
+      "AG-HAUSRATVERSICHERUNG_A => FS-EINBAUSCHRANK; AG-HAUSRATVERSICHERUNG_B => FS-EINBAUSCHRANK; AG-HAUSRATVERSICHERUNG_C => FS-EINBAUSCHRANK; AG-HAUSRATVERSICHERUNG_D => FS-EINBAUSCHRANK;",
+      "AG-EINBAUSCHRANK_A => FS-BIBLIOTHEK; AG-EINBAUSCHRANK_B => FS-BIBLIOTHEK; AG-EINBAUSCHRANK_C => FS-BIBLIOTHEK;",
+      "AG-BIBLIOTHEK => FS-SPINT;",
+      "AG-SPINT => FS-FAHRRAD;",
+      "AG-FAHRRAD_A => FS-RHEINUFER; AG-FAHRRAD_B => FS-RHEINUFER;",
+      "AG-RHEINUFER_A => FS-GEFAHREN_IN_HAUSRAT; AG-RHEINUFER_B => FS-GEFAHREN_IN_HAUSRAT;",
+      "AG-GEFAHREN_IN_HAUSRAT => FS-KERZE;",
+      "AG-KERZE_A => FS-SENGSCHAEDEN; AG-KERZE_B => FS-SENGSCHAEDEN;",
+      "AG-SENGSCHAEDEN_A => FS-GROBE_FAHRLAESSIGKEIT; AG-SENGSCHAEDEN_B => FS-GROBE_FAHRLAESSIGKEIT; AG-SENGSCHAEDEN_C => FS-GROBE_FAHRLAESSIGKEIT;",
+      "AG-GROBE_FAHRLAESSIGKEIT_A => FS-VERSICHERUNGSWERT; AG-GROBE_FAHRLAESSIGKEIT_B => FS-VERSICHERUNGSWERT; AG-GROBE_FAHRLAESSIGKEIT_C => FS-VERSICHERUNGSWERT;",
+      "AG-VERSICHERUNGSWERT => FS-FEEDBACK_FRAGE;",
+      "AG-JA => AG-FEEDBACK_ANTWORT;",
+      "ES-VERABSCHIEDUNG => ES-VERABSCHIEDUNG;"
+    ]
+  },
+
+
+  {
+    "name": "ES-VERABSCHIEDUNG",
+    "descriptor": [ "ES-VERABSCHIEDUNG => ES-VERABSCHIEDUNG;" ]
+  }
+]

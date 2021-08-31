@@ -1,0 +1,56 @@
+﻿[
+  {
+    "name": "ES-GREETING",
+    "phrases_names": [ "ES-GREETING" ]
+  },
+  {
+    "name": "AG-SPIELARTEN",
+    "phrases_names": [
+      "AG-VERSCHIEDENE",
+      "AG-LOTTO",
+      "AG-EUROJACKPOT",
+      "AG-ZUSATZSPIELARTEN",
+      "AG-HAUPTSPIELART",
+      "AG-SPIELART",
+      "AG-ZIEHUNGEN",
+      "AG-TAGEN"
+    ]
+  },
+  {
+    "name": "AG-ENTSCHEIDUNG",
+    "phrases_names": [ "AG-JACKPOT", "AG-WAHRSCHEINLICHKEIT" ]
+  },
+  {
+    "name": "AG-JACKPOT",
+    "phrases_names": [ "AG-JACKPOT", "AG-LOTTO", "AG-BETRAG", "AG-ZIEHUNG", "AG-TAG_DER_ZIEHUNG" ]
+  },
+  {
+    "name": "AG-ALTERNATIVE",
+    "phrases_names": [ "AG-SOFORT", "AG-RUBELLOS", "AG-AB_1_EURO" ]
+  },
+  {
+    "name": "AG-GEWINN_ERFAHREN",
+    "phrases_names": [ "AG-ANNAHMESTELLE", "AG-APP" ]
+  },
+  {
+    "name": "AG-BEDINGUNGEN",
+    "phrases_names": [ "AG-SPIELTEILNAHME", "AG-SUECHTIG", "AG-BERATUNG", "AG-INTERNET", "AG-HOTLINE" ]
+  },
+
+  {
+    "name": "ES-FORWARD",
+    "phrases_names": [ "ES-FORWARD" ]
+  },
+  {
+    "name": "ES-RETURN",
+    "phrases_names": [ "ES-RETURN" ]
+  },
+  {
+    "name": "ES-REPEAT",
+    "phrases_names": [ "ES-REPEAT" ]
+  },
+  {
+    "name": "ES-PROCEED",
+    "phrases_names": [ "ES-PROCEED" ]
+  }
+]

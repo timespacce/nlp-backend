@@ -1,0 +1,38 @@
+﻿[
+  {
+    "ssml": "<speak><s>Today I am very lucky.</s><s>I would like to play for the first time now.</s><s>How does it work?</s><k/speak>",
+    "file": "spielarten.mp3"
+  },
+  {
+    "ssml": "<speak><s>Oh, that's a lot of possibilities.</s><s>How am I supposed to decide?</s></speak>",
+    "file": "entscheidung.mp3"
+  },
+  {
+    "ssml": "<speak><s>How much is such a jackpot?</s></speak>",
+    "file": "jackpot.mp3"
+  },
+  {
+    "ssml": "<speak><s>Oh, Saturday only?</s><s>?Is there an alternative, in case I don't want to wait that long?</s></speak>",
+    "file": "alternative.mp3"
+  },
+  {
+    "ssml": "<speak><s>How do I know that I have won?</s></speak>",
+    "file": "gewinn_erfahren.mp3"
+  },
+  {
+    "ssml": "<speak><s>That sounds very convenient.</s><s>Thank you.</s><s>Anything else I need to know?</s></speak>",
+    "file": "bedingungen.mp3"
+  },
+  {
+    "ssml": "<speak><s>Ok, thank you.</s><s>Until next time.</s></speak>",
+    "file": "bye.mp3"
+  },
+  {
+    "ssml": "<speak><s>Sorry.</s><s>I couldn't understand that.</s></speak>",
+    "file": "repeat.mp3"
+  },
+  {
+    "ssml": "<speak><s>Thank you for your help.</s><s>Until next time.</s></speak>",
+    "file": "interrupt.mp3"
+  }
+]

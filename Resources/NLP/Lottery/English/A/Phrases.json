@@ -1,0 +1,117 @@
+﻿[
+  {
+    "keywords": [ "hello", "hey" ],
+    "name": "SS-GREETING"
+  },
+
+  {
+    "keywords": [ "different", "various", "several", "lots", "a variaty", "all kinds of", "a number of", "many different" ],
+    "name": "SS-DIFFERENT"
+  },
+  {
+    "keywords": [ "the lottery", "lotts", "lotto", "lottery" ],
+    "name": "SS-LOTTO"
+  },
+  {
+    "keywords": [ "eurojackpot", "euro jackpot", "euro-jackpot", "european jackpot" ],
+    "name": "SS-EURO_JACKPOT"
+  },
+  {
+    "keywords": [ "Keno" ],
+    "name": "SS-KENO"
+  },
+  {
+    "keywords": [ "add-on", "add on game", "add on games", "supplementary game types", "auxiliary game types", "complementary game types", "additional games", "bonus game types", "extra game types" ],
+    "name": "SS-ADD_ON"
+  },
+  {
+    "keywords": [ "game type", "main game", "main game type", "major game type" ],
+    "name": "SS-MAIN_GAME"
+  },
+  {
+    "keywords": [ "drawing", "drawings", "draw", "draws", "picks", "lots" ],
+    "name": "SS-DRAW"
+  },
+  {
+    "keywords": [ "days", "dates" ],
+    "name": "SS-DAYS"
+  },
+
+  {
+    "keywords": [ "jackpot", "prize" ],
+    "name": "SS-JACKPOT"
+  },
+  {
+    "keywords": [ "probability of winning", "chance of winning", "likelihood of winning", "odds of winning", "possibility of winning" ],
+    "name": "SS-PROBABILITY"
+  },
+
+  {
+    "keywords": [ "32 million" ],
+    "name": "SS-AMOUNT"
+  },
+  {
+    "keywords": [ "saturday", "saturday evening", "sunday evening", "weekend" ],
+    "name": "SS-DRAW_DAY"
+  },
+
+  {
+    "keywords": [ "instantly", "right away", "right now", "immediately", "straight" ],
+    "name": "SS-RIGHT_NOW"
+  },
+  {
+    "keywords": [ "scratch off ticket", "scratch card", "scratch ticket" ],
+    "name": "SS-SCRATCH_OFF"
+  },
+  {
+    "keywords": [ "from 1 euro", "from 1 EUR", "from 1 €" ],
+    "name": "SS-FROM_1_EURO"
+  },
+
+  {
+    "keywords": [ "retailer", "retail store", "shop", "retail point", "ticket store", "ticket point", "sales store", "sales point ", "acceptance point" ],
+    "name": "SS-RETAILER"
+  },
+  {
+    "keywords": [ "app", "software", "program" ],
+    "name": "SS-APP"
+  },
+
+  {
+    "keywords": [ "participation under the age" ],
+    "name": "SS-PARTICIPATION"
+  },
+  {
+    "keywords": [ "addictive", "addicting", "habit forming" ],
+    "name": "SS-ADDICTIVE"
+  },
+  {
+    "keywords": [ "advice", "guidance", "consulling", "consultation", "tips" ],
+    "name": "SS-CONSULTING"
+  },
+  {
+    "keywords": [ "internet", "online", "web" ],
+    "name": "SS-INTERNET"
+  },
+  {
+    "keywords": [ "hotline", "helpline" ],
+    "name": "SS-HOTLINE"
+  },
+
+  {
+    "keywords": [ "next level please" ],
+    "name": "ES-FORWARD"
+  },
+  {
+    "keywords": [ "last question please" ],
+    "name": "ES-RETURN"
+  },
+  {
+    "keywords": [ "repeat the question" ],
+    "name": "ES-REPEAT"
+  },
+  {
+    "keywords": [ "next question please" ],
+    "name": "ES-PROCEED"
+  }
+]

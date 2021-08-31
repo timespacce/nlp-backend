@@ -1,0 +1,410 @@
+[
+    {
+        "audio_clip": "Audio/Computer/Insurance/einfuehrung",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-EINFUEHRUNG",
+        "ssml": "<speak><s>Hey, es freut mich hier zu sein. Ich bin Lisa Schmidt und schon sehr gespannt auf das Gespr\u00e4ch. Vielleicht k\u00f6nnen Sie sich ja vorstellen. Danach k\u00f6nnen Sie mir gerne n\u00f6tige Fragen stellen. </s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/danke",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-DANKE",
+        "ssml": "<speak><s>Danke!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/ok1",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-OK_1",
+        "ssml": "<speak><s>Okay.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/ok2",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-OK_2",
+        "ssml": "<speak><s>okay, alles klar!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/dasGehtInOrdnung",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-ES_GEHT",
+        "ssml": "<speak><s>Das geht in Ordnung</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/inOrdnung",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-IN_ORDNUNG",
+        "ssml": "<speak><s>In Ordnung</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/keinProblem",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-KEIN_PROBLEM",
+        "ssml": "<speak><s>Kein Problem</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/verabschiedung",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-VERABSCHIEDUNG",
+        "ssml": "<speak><s>Danke f\u00fcr das nette Gespr\u00e4ch.</s><s>Bis zum n\u00e4chsten Mal!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/hey",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-HEY",
+        "ssml": "<speak><s>Hey!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/freue_kennenzulernen",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-FREUE_KENNENZULERNEN",
+        "ssml": "<speak><s>Ich freue mich Sie kennenzulernen!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/richtige_person",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-RICHTIGE_PERSON",
+        "ssml": "<speak><s>Sehr gut!</s><s>Dann sind Sie die richtige Person, weil ich n\u00e4mlich einige Fragen habe.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/danke_visitenkarten",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-DANKE_VISITENKARTEN",
+        "ssml": "<speak><s>Danke sehr f\u00fcr die Visitenkarten.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/danke_information",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-DANKE_INFORMATION",
+        "ssml": "<speak><s>Danke f\u00fcr die Information.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/frageVersicherungswert",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-VERSICHERUNGSWERT",
+        "ssml": "<speak><s>Woher wei\u00df ich wieviel ich absichern soll?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/bspGrobeFahrlaessigkeit",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-GROBE_FAHRLAESSIGKEIT",
+        "ssml": "<speak><s>Ich koche gerne, was kann mir dabei grobfahrl\u00e4ssiges passieren?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/sengschaeden",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-SENGSCHAEDEN",
+        "ssml": "<speak><s>Sind denn auch Sengsch\u00e4den mitversichert?</s><s>Also wenn es nicht zu einem richtigen Brand kommt?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/kerze",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-KERZE",
+        "ssml": "<speak><s>Ich hab noch eine Frage</s><s>Abends mache ich es mir oft gem\u00fctlich und z\u00fcnde Kerzen an.</s><s>Meine Waschmaschine steht aber im Keller.</s><s>Wenn ich nun in den Keller gehe und die Kerzen einen Brand verursachen.</s><s>W\u00e4re dies dann versichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/gefahreninhausrat",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-GEFAHREN_IN_HAUSRAT",
+        "ssml": "<speak><s>Gegen was beziehungsweise welche Gefahren ist man denn grunds\u00e4tzlich in der Hausratversicherung versichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/glasschaden",
+        "emotion": "NEUTRAL",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "Name": "FS-GLAS_SCHADEN",
+        "ssml": "<speak><s>Was ist denn mit Sch\u00e4den an Glas?</s><s>Ich habe einen kleinen Beistelltisch mit einer Glasplatte und das Ceran-Kochfeld ist auch aus Glas.</s><s>Ist das mitversichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/spintfrage",
+        "emotion": "CONFUSED",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-SPINT",
+        "ssml": "<speak><s>In der Uni habe ich einen Spint.</s><s>Dort lasse ich auch oefters meinen Laptop und Buecher liegen.</s><s>Ist das denn dort auch versichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/bibliothekfrage",
+        "emotion": "CONFUSED",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-BIBLIOTHEK",
+        "ssml": "<speak><s>Ich leihe mir oefter B\u00fccher aus der Bibliothek aus.</s><s>Die gehoeren ja nicht mir.</s><s>Sind geliehene Buecher oder Sachen denn auch mitversichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/einauschrank",
+        "emotion": "NEUTRAL",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-EINBAUSCHRANK",
+        "ssml": "<speak><s>Hmm, ich habe aber auch einen Einbauschrank, den ich selbst gekauft habe.</s><s>Ist der Schrank versichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/rheinufer",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-RHEINUFER",
+        "ssml": "<speak><s>Ich haett noch eine weitere Frage</s><s> Ich liege oft zum Lernen am Rheinufer.</s> <break time=\"400ms\"/><s>Da hab ich immer meinen Laptop und meine Buecher dabei.</s> <break time=\"400ms\"/> <s>Manchmal mache ich dann auch ein kleines Nickerchen.</s><s>Wenn mir nun der Laptop geklaut wird, und ich es nicht mitbekomme, weil ich schlafe, <break time=\"200ms\"/> <emphasis level=\"moderate\">ist er dann gegen Diebstahl versichert?</emphasis></s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/fahrrad",
+        "emotion": "CONFUSED",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-FAHRRAD",
+        "ssml": "<speak><s>Ist denn mein Fahrrad auch versichert?</s><s>Damit fahre ich jeden Tag zur Uni und stelle es drau\u00dfen bei den Fahrradst\u00e4ndern ab, also nicht in einem Geb\u00e4ude.</s><s>Nur nachts steht es in unserem Gemeinschaftskeller.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/wasistinhausrat",
+        "emotion": "CONFUSED",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-HAUSRATVERSICHERUNG",
+        "ssml": "<speak><s>Was ist denn alles in einer Hausratversicherung versichert?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/mirgehtsgut",
+        "emotion": "SMILE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-STIMMUNG",
+        "ssml": "<speak><s>Mir gehts gut!</s><s>Danke der Nachfrage.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/situation",
+        "emotion": "CONFUSED",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-SITUATION_BESCHREIBEN",
+        "ssml": "<speak><s>Also: Ich ziehe zum ersten Mal aus und beginne zu studieren.</s><s>Da ich bisher \u00fcber meine Eltern versichert war, kenne ich mich nicht wirklich aus.</s><s>Mein Vater meinte, dass ich nun eine eigene Hausratversicherung brauchen w\u00fcrde, wenn ich in meine erste eigene Wohnung ziehe. Ist das richtig?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/geburtstag",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-GEBURTSTAG",
+        "ssml": "<speak><s>Mein Geburtstag ist der zweite Februar Neunzehnhundertneunundneunzig</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/erstesStudium",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-BERUF",
+        "ssml": "<speak><s>Ja, das ist mein erstes Studium.</s><s>Nach dem Abi mit neunzehn habe ich direkt angefangen, Medienwissenschaften zu studieren.</s><s>Nun wollte ich mal auf eigenen F\u00fc\u00dfen stehen und ziehe deshalb bei meinen Eltern aus.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/paparegelt",
+        "emotion": "CONFUSED",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-BESTEHENDE_VERTRAEGE",
+        "ssml": "<speak><s>Wie ich schon sagte, hat bisher alles mein Vater f\u00fcr mich geregelt.</s><s>Er meinte, dass ich wohl keine eigene Haftpflichtversicherung brauchen w\u00fcrde.</s><s>Aber eben eine eigene Hausratversicherung.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/erstesStudium",
+        "emotion": "NEUTRAL",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-ERSTES_STUDIUM",
+        "ssml": "<speak><s>Ja, das ist mein erstes Studium.</s><s>Nach dem Abi mit neunzehn habe ich direkt angefangen, Medienwissenschaften zu studieren.</s><s>Nun wollte ich mal auf eigenen F\u00fc\u00dfen stehen und ziehe deshalb bei meinen Eltern aus.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/hund",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-HAUSTIER",
+        "ssml": "<speak><s>Ich habe einen Hund.</s><s>Der bleibt aber bei meinen Eltern, weil ich w\u00e4hrend meines Studiums keine Zeit f\u00fcr ihn habe.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/hobbies",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-HOBBIES",
+        "ssml": "<speak><s>Meine Hobbies sind Lesen, mich mit Freunden treffen und verreisen.</s><s>Au\u00dfergew\u00f6hnliche Hobbies habe ich nicht.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/name1",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-NAME_1",
+        "ssml": "<speak><s>Ich bin Lisa Schmidt.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/name2",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-NAME_2",
+        "ssml": "<speak><s>Lisa Schmidt.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/name3",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-NAME_3",
+        "ssml": "<speak><s>Mein Name ist Lisa Schmidt.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/volleaddresse",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-WOHNORT",
+        "ssml": "<speak><s>Ich wohne in der Landsbergstr.</s><s>15 in K\u00f6ln.</s><s>Brauchen Sie auch die Postleitzahl?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/PLZ",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-PLZ",
+        "ssml": "<speak><say-as interpret-as=\"verbatim\">50678</say-as></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/ja",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-JA",
+        "ssml": "<speak><s>Ja.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/feedback_question",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "FS-FEEDBACK_FRAGE",
+        "ssml": "<speak><s>Alles klar.</s><s>Das waren meine Fragen.</s><s>M\u00f6chten Sie ein Feedback bekommen?</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/feedback_answer",
+        "emotion": "SMILE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-FEEDBACK_ANTWORT",
+        "ssml": "<speak><s>Auf meine Frage zum Einbauschrank, ob dieser mitversichert ist, w\u00e4re die richtige Antwort gewesen.</s><s>Ja, in das Geb\u00e4ude eingef\u00fcgte Sachen sind mitversichert, wenn diese auf eigene Kosten beschafft oder \u00fcbernommen wurden.</s><s>Schaue dir das Thema versicherte Gegenst\u00e4nde nochmal an.</s><break time=\"2s\"/><s>Auf meine Frage zum Diebstahl des Laptops.<s></s>Dies ist nicht mitversichert, da es sich um einen einfachen Diebstahl handelt.</s><s>Schaue dir nochmal die Themen Au\u00dfenversicherung und Einbruchdiebstahl an.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/jagerne",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-JA_GERNE",
+        "ssml": "<speak><s>Ja, gerne!</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/familienstand",
+        "emotion": "SMILE",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "AG-NICHT_VERHEIRATET",
+        "ssml": "<speak><s>Ich bin nicht verheiratet und habe auch keine Kinder.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/unterschreibe_datenschutzerklaerung",
+        "emotion": "SMILE",
+        "gesture": "None",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-UNTERSCHREIBE_DATENSCHUTZERKLAERUNG",
+        "ssml": "<speak><s>Ah ja, davon habe ich schon geh\u00f6rt. Ok, dann unterschreibe ich Ihnen das</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/repeat",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-REPEAT",
+        "ssml": "<speak><s>Entschuldigung.</s><s>Das habe ich leider nicht verstanden.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Insurance/interrupt",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-INTERRUPT",
+        "ssml": "<speak><s>Vielen Dank f\u00fcr Ihre Hilfe.</s><s>Auf wiedersehen.</s></speak>"
+    },
+    {
+        "audio_clip": "",
+        "emotion": "NEUTRAL",
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaGestureAction",
+        "name": "ET-NOD"
+    },
+    {
+        "gameEvent": {
+            "name": "Lisa liest Datenschutzerkl\u00e4rung"
+        },
+        "event_type": "EventAction",
+        "name": "ET-LIEST_UND_UNTERSCHREIBT_DATENSCHUTZERKLAERUNG"
+    },
+    {
+        "gameEvent": {
+            "name": "Lisa liest Visitenkarte"
+        },
+        "event_type": "EventAction",
+        "name": "ET-LIEST_VISITENKARTE"
+    },
+    {
+        "gameEvent": {
+            "name": "Lisa liest Datenschutzerkl\u00e4rung"
+        },
+        "event_type": "EventAction",
+        "name": "ET-LIEST_WERBEERLAUBNIS"
+    },
+    {
+        "gameEvent": {
+            "name": "Lisa liest Vermittlerprofil"
+        },
+        "event_type": "EventAction",
+        "name": "ET-LIEST_VERMITTLERPROFIL"
+    },
+    {
+        "gesture": "SHAKE_HEAD",
+        "event_type": "AdessoVR.Model.Conversation.LisaGestureAction",
+        "name": "ET-SHAKE_HEAD"
+    }
+]

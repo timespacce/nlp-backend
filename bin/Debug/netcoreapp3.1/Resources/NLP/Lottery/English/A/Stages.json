@@ -1,0 +1,30 @@
+﻿[
+  {
+    "name": "WELCOME",
+    "descriptor": [ "SS-GREETING => AS-GAME_TYPES;" ]
+  },
+  {
+    "name": "EXPLAIN_GAME_TYPES",
+    "descriptor": [ "GA-GAME_TYPES => AS-DECISION;" ]
+  },
+  {
+    "name": "EXPLAIN_GAME_SELECTION",
+    "descriptor": [ "GA-DECISION => AS-JACKPOT;" ]
+  },
+  {
+    "name": "EXPLAIN_JACKPOT",
+    "descriptor": [ "GA-JACKPOT => AS-ALTERNATIVE_GAMES;" ]
+  },
+  {
+    "name": "EXPLAIN_ALTERNATIVE_GAMES",
+    "descriptor": [ "GA-ALTERNATIVE_GAMES => AS-CHECKING_PROFIT;" ]
+  },
+  {
+    "name": "EXPLAIN_CHECKING_PROFIT",
+    "descriptor": [ "GA-CHECKING_PROFIT => AS-CONDITIONS;" ]
+  },
+  {
+    "name": "EXPLAIN_CONDITIONS",
+    "descriptor": [ "GA-CONDITIONS => SS-BYE;" ]
+  }
+]

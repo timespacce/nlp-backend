@@ -1,0 +1,66 @@
+[
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/greeting",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "SS-GREETING",
+        "ssml": "<speak><s>Hello!</s><s>I'd like to play Eurojackpot for tonight's drawing.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/quicktip",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "GA-QUICKTIP",
+        "ssml": "<speak><s>I would like to play Quicktipp.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/2_rows",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "GA-ROWS",
+        "ssml": "<speak><s>I would like to play 2 rows.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/today",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "GA-DRAW",
+        "ssml": "<speak><s>Just for today.</s><s>Thank you.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/no_thank_you",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "GA-ADD_ON",
+        "ssml": "<speak><s>No.</s><s>Thank you.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/bye",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "SS-BYE",
+        "ssml": "<speak><s>Thank you.</s><s>Goodbye.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/repeat",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-REPEAT",
+        "ssml": "<speak><s>Sorry.</s><s>I couldn't understand that.</s></speak>"
+    },
+    {
+        "audio_clip": "Audio/Computer/Lottery/English/B/interrupt",
+        "emotion": "ACKNOWLEDGE",
+        "gesture": "NONE",
+        "event_type": "AdessoVR.Model.Conversation.LisaSayAction",
+        "name": "ES-INTERRUPT",
+        "ssml": "<speak><s>Thank you for your help.</s><s>Until next time.</s></speak>"
+    }
+]
